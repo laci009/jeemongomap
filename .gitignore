@@ -1,8 +1,5 @@
 target
-.settings/*
-!.settings/.jsdtscope
-.project
-.classpath
 .*~
 .idea
 *.iml
+/build/
